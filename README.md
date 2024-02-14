@@ -38,9 +38,9 @@ Shows detailed information about a selected movie, including poster, genre, dire
 3. Tap on a movie from the search results to view detailed information about it.
 
 <p float="left">
-  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/551af05f-da4a-4bb3-8e61-f0e028b38938" width="120" />
-  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/42c07463-6f6c-4e9e-b4a1-109f6b3dc83e" width="120" /> 
-  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/fcdb75f8-5860-4174-b81f-21eecd447b69" width="120" />
-  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/4f0fd06f-678a-4f61-a0b0-413650372294" width="120" />
-  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/ce45b4ca-cda1-489e-ba2e-e6fa4305c3ee" width="120" />
+  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/551af05f-da4a-4bb3-8e61-f0e028b38938" width="150" />
+  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/42c07463-6f6c-4e9e-b4a1-109f6b3dc83e" width="150" /> 
+  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/fcdb75f8-5860-4174-b81f-21eecd447b69" width="150" />
+  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/4f0fd06f-678a-4f61-a0b0-413650372294" width="150" />
+  <img src="https://github.com/sevgitoprak/LoodosCase/assets/93860490/ce45b4ca-cda1-489e-ba2e-e6fa4305c3ee" width="150" />
 </p>
